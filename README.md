@@ -1,1 +1,3 @@
 # Learning Rspec
+
+Just playing around with Rspec to figure out how to write some tests ... 
